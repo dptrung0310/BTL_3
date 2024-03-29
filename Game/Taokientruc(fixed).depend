@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1711632596 source:d:\ltnc\hoc sdl tren youtube\taokientruc(fixed)\baseobject.cpp
+	"BaseObject.h"
+
+1711632596 d:\ltnc\hoc sdl tren youtube\taokientruc(fixed)\baseobject.h
+	"CommonFunc.h"
+
+1711632596 d:\ltnc\hoc sdl tren youtube\taokientruc(fixed)\commonfunc.h
+	<windows.h>
+	<bits/stdc++.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1711632596 source:d:\ltnc\hoc sdl tren youtube\taokientruc(fixed)\commonfunc.cpp
+	"CommonFunc.h"
+
+1711632596 source:d:\ltnc\hoc sdl tren youtube\taokientruc(fixed)\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1711632596 source:d:\ltnc\hoc sdl tren youtube\game\baseobject.cpp
+	"BaseObject.h"
+
+1711646724 d:\ltnc\hoc sdl tren youtube\game\baseobject.h
+	"CommonFunc.h"
+
+1711646735 d:\ltnc\hoc sdl tren youtube\game\commonfunc.h
+	<windows.h>
+	<bits/stdc++.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1711632596 source:d:\ltnc\hoc sdl tren youtube\game\commonfunc.cpp
+	"CommonFunc.h"
+
+1711646724 source:d:\ltnc\hoc sdl tren youtube\game\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"game_map.h"
+	"MainObject.h"
+
+1711640189 source:d:\ltnc\hoc sdl tren youtube\game\game_map.cpp
+	"game_map.h"
+
+1711639197 d:\ltnc\hoc sdl tren youtube\game\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1711646797 d:\ltnc\hoc sdl tren youtube\game\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1711647701 source:d:\ltnc\hoc sdl tren youtube\game\mainobject.cpp
+	"MainObject.h"
+
