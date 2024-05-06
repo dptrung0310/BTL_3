@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1714323560 source:d:\ltnc\mygame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1714495741 d:\ltnc\mygame\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1714495674 d:\ltnc\mygame\defs.h
+
+1714923441 source:d:\ltnc\mygame - copy\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1714924068 d:\ltnc\mygame - copy\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1714918993 d:\ltnc\mygame - copy\defs.h
+
+1714959603 source:c:\desktop\suagame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1714960212 c:\desktop\suagame\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1714956502 c:\desktop\suagame\defs.h
+
+1714961354 source:d:\ltnc\bai_tap_lon\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+
+1714960212 d:\ltnc\bai_tap_lon\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1714956502 d:\ltnc\bai_tap_lon\defs.h
+
