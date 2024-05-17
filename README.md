@@ -11,3 +11,9 @@
    -Các code mà em tự viết đó là code check va chạm, code chọn nút bấm dùng 6 enum GameState, code phát triển cách di chuyển cho các vật thể như là trollblue_bird  hay movefatbird, code hiển thị các hướng dẫn lên màn hình, code phối hợp các sprite_hero với nhau như là nhảy, chạy, tấn công, sử dụng text, âm thanh hiệu ứng vào game, tắt âm thanh, lưu kỷ lục lớn nhất , thêm máu, lượt chém.
    
    -SoloMode được em tự sáng tạo là chế độ 2 người chơi,có các sử dụng các xử lí chạm, các chiêu cho nhân vật, sử dụng vecto để xuất hiện các hiệu ứng chiêu của nhân vật, xử lí máu và năng lượng.
+# 5. Hướng dẫn chơi
+## 1. ClassicMode : sử dụng W,A,D di chuyển, space để nhảy cao, bấm chuột để chém. 
+## 2. SoloMode: 
+-Player1 : sử dụng W,A,D để di chuyển, S để thủ , J đánh thường, K dịch chuyển, L để dùng kỹ năng.
+
+-Player2: sử dụng các mũi tên để di chuyển, nút xuống để thủ, nút 1 đánh thường, nút 2 để dịch chuyển, nút 3 để dùng kỹ năng.
